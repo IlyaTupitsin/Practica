@@ -27,7 +27,7 @@ Microsoft Visual Studio Community 2022
 
 ![Снимок экрана 2024-02-11 184926](https://github.com/IlyaTupitsin/Practica/assets/117898245/7b9bce36-c2a0-4ee0-bdcd-5f82a68137a2)
 
-##Разработка
+## Разработка
 ### Требования
 Для установки и запуска проекта, необходим VisualStudio 2022
 ## Тестирование
